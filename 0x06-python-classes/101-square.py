@@ -1,20 +1,3 @@
-
-yonasleykun27
-/
-alx-higher_level_programming
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-alx-higher_level_programming/0x06-python-classes/101-square.py
-@yonasleykun27
-yonasleykun27 all tasks
- 1 contributor
-Executable File  95 lines (84 sloc)  2.62 KB
 #!/usr/bin/python3
 """my square module."""
 
